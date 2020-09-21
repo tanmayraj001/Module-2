@@ -44,6 +44,7 @@ section {
   text-align: center;
   font-family: Helvetica;
   color: white;
+  margin-top:-1px;
 }
   .beef{
   right: 0px;
@@ -56,6 +57,7 @@ section {
   font-weight: bold;
   font-family: Helvetica;
   color: white;
+  margin-top:-1px;
 }
   .sushi{
   right: 0px;
@@ -68,7 +70,7 @@ section {
   font-weight: bold;
   font-family: Helvetica;
   color: white;
-
+  margin-top:-1px;
 }
 .row {
   width: 100%;
